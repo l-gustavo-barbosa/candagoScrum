@@ -63,6 +63,10 @@
 [SPRINT-3 - Em Breve!]()
 <br>
 
+![Vídeo de entrega]
+<br>
+[SPRINT 1 - Clique Aqui!](https://youtu.be/Tn0w6AsOwMQ)
+
 ## Tecnologias Utilizadas
 
 <div style="display: inline_block"><br>
