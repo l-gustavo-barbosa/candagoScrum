@@ -45,7 +45,7 @@
 ![growth](https://user-images.githubusercontent.com/104475381/235959262-d2c25637-4372-43b9-bcd2-94c357c23c8c.png)
   **BURNDOWN CHART**
  <br>
-[SPRINT-1 - Em Breve!]()
+[SPRINT-1 - Em Breve!](https://github.com/l-gustavo-barbosa/candagoScrum/blob/Main/imagens/burndown.PNG)
 <br>
 [SPRINT-2 - Em Breve!]()
 <br>
