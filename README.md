@@ -63,12 +63,12 @@
 [SPRINT-3 - Em Breve!]()
 <br>
 
-![ytlogo]()
+![ytlogo](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/Main/imagens/image-removebg-preview.png)
 **VÍDEO DE ENTREGA**
 <br>
 [SPRINT 1 - Clique Aqui!](https://www.youtube.com/watch?v=3PtlmFv_WHg)
 
-<iframe width="1423" height="664" src="https://www.youtube.com/embed/3PtlmFv_WHg" title="candaGo Scrum - Sprint 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Tecnologias Utilizadas
 
