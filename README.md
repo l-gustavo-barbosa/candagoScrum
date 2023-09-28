@@ -63,9 +63,10 @@
 [SPRINT-3 - Em Breve!]()
 <br>
 
-![Vídeo de entrega]()
+![ytlogo](https://w7.pngwing.com/pngs/963/811/png-transparent-youtube-logo-youtube-red-logo-computer-icons-youtube-television-angle-rectangle-thumbnail.png)
+**VÍDEO DE ENTREGA**
 <br>
-[SPRINT 1 - Clique Aqui!](https://youtu.be/Tn0w6AsOwMQ)
+[SPRINT 1 - Clique Aqui!](https://www.youtube.com/watch?v=3PtlmFv_WHg)
 
 ## Tecnologias Utilizadas
 
