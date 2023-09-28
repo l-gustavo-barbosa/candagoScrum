@@ -88,5 +88,5 @@ LUIS	|	luis.pereira51@fatec.sp.gov.br	|	[l-gustavo-barbosa![github (1)](https://
 LUCAS	|	lucas.souza284@fatec.sp.gov.br	|	[jaqueslucas![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/jaqueslucas)|	Dev Team
 CAIQUE	|	caique.moura@fatec.sp.gov.br	|	[caiquefrd![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/caiquefrd)	|	Dev Team
 RAFAEL	|	rafael.moraes21@fatec.so.gov.br	|	[RafaelSM21![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/RafaelSM21)	|	Dev Team
-GUILHERME R.	|	guilherme.ribeiro36@fatec.sp.gov.br	|	[UnlitDoom![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/UnlitDoom)	|	Dev Team
+LUCAS A.	|	lucas.assis15@fatec.sp.gov.br	|	[Lucassis1![github (1)](https://user-images.githubusercontent.com/127904356/227741763-25763db0-8564-428d-a08e-2653b53a733e.png)](https://github.com/Lucassis1)	|	Dev Team
 
