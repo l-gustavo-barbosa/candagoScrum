@@ -1,0 +1,223 @@
+    .body{
+        margin: 0%;
+    }
+.menu{
+    background-color: #202020;
+    padding: 10px;
+    border-bottom: 12px solid #15e5b3;
+}
+.titulo{
+color: #30FFCF;
+font-size: 35px;
+text-align: center;
+margin-right: 250px
+}
+.candago{
+    color: white;
+    float: left;
+    margin-top: 15px;
+}
+.corpo{
+background-color: white;
+}
+#botao{
+    text-align: center;
+}
+.botao{
+    background-color: #30FFCF;
+    color: white;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    background-color: #15e5b3;
+    border-radius: 0px 0px 24px 24px;
+    box-shadow: 0px 8px 16px #0000001f;
+    border: #30FFCF
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+*{
+    font-family: 'Inter', sans-serif;
+}
+#inicioJornada{
+    border-radius: 48px;
+    max-width: 400px;
+    border: 2px solid #202020;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+#inicioJornada h1{
+    font-size: 24px;
+    width: 100%;
+    margin: 0;
+    padding: 16px 0;
+    text-align: center;
+    background-color: #15E5B3;
+    border-radius: 46px 46px 0 0;
+    color: #202020;
+}
+
+#inicioJornada img{
+    width: 100%;
+}
+
+#inicioJornada #botoes{
+    margin: 0 auto;
+    width: fit-content;
+    margin-bottom: 16px;
+}
+
+#inicioJornada #botoes button{
+    font-size: 24px;
+    font-weight: 700;
+    border-width: 2px 2px 4px;
+    border-radius: 8px;
+    border: solid;
+    border-width: 2px 2px 4px;
+    cursor: pointer;
+}
+
+#inicioJornada #botoes button:hover{
+    font-size: 32px;
+    transition: 50ms;
+}
+
+#inicioJornada #botoes #sim{
+    background-color: #15E5B3;
+    color: #202020;
+    border-color: #202020;
+}
+
+#inicioJornada #botoes #nao{
+    background-color: #202020;
+    color: #15E5B3;
+    border-color: #15e5b3;
+}
+
+.inativo {
+    display: none;
+}
+
+#menuEscondido{
+    background-color: #15E5B3;
+    border-radius: 46px;
+    padding: 16px;
+}
+
+#menuEscondido p{
+    font-size: 20px;
+    width: 100%;
+    margin: 0;
+    padding: 16px 0;
+    text-align: center;
+    background-color: #15E5B3;
+    border-radius: 46px 46px 0 0;
+    color: #202020;
+    font-weight: 700;
+}
+
+#menuEscondido ul {
+    padding: 8px 4px;
+    background-image: linear-gradient(#28C09C, #15e5b3);
+    list-style: none;
+    width: 60%;
+    margin: 16px auto;
+    border-radius: 16px;
+}
+
+#menuEscondido ul li{
+    text-align: center;
+    margin: 8px 0;
+}
+
+#menuEscondido ul li a{
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    font-size: 24px;
+    color: #202020;
+    font-weight: 700;
+}
+
+#menuEscondido ul li a:hover{
+    color: #fff;
+    transition: 50ms;
+}
+
+#menuEscondido #voltar{
+    border-radius: 48px;
+    background-color: white;
+    color: #202020;
+    font-weight: 700;
+    font-size: 24px;
+    padding: 4px 16px;
+    border: none;
+    display: block;
+    margin: 0 auto 16px;
+    cursor: pointer;
+}
+.rodape{
+    display: flex;
+    background-color: #30FFCF;
+    padding: 30px;
+    margin-top: 100px;
+    border-top: 2px solid #202020;
+    align-items: center;
+}
+.textos{
+    width: 500px;
+}
+#titulosobre{
+    display: block;
+    width: 100%;
+    margin-bottom: 15px;
+    font-size: 30px;
+    list-style: none;
+    text-align: center;
+    font-weight: 700;
+}
+.sobre2{
+    width: 175px;
+    margin-left: 350px;
+    margin-bottom: 95px;
+}
+.sobre{
+    text-align: center;
+    list-style: none;
+    padding: 1px;
+    font-size: 20px;
+}
+.redes2{
+    float: right;
+    width: 150px;
+    display: flex;
+    margin-left: 250px;
+}
+.redes2 ul{
+    width: fit-content;
+}
+#titulorede{
+    text-align: center;
+    display: block;
+    width: 100%;
+    margin-bottom: 15px;
+    font-size: 30px;
+    font-weight: 700;
+}
+.redes{
+    list-style: none;
+    text-align: left;    
+    size-adjust: 20px;
+    font-size: 20px;
+    margin-top: 7px;
+    display: flex;
+    align-items: center;
+}
+.redes p{
+    display: inline-block;
+    margin: 0;
+}
+.img{
+    margin-right: 5px;
+}
