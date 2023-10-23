@@ -3,7 +3,7 @@
 
 ## Nossa Equipe
 
-![Organograma](https://github.com/l-gustavo-barbosa/candagoScrum/blob/Main/imagens/Blue%20and%20White%20Circle%20Organizational%20Chart.png)
+![Organograma](https://github.com/l-gustavo-barbosa/candagoScrum/blob/master/imagens/Blue%20and%20White%20Circle%20Organizational%20Chart.png)
 
 
 
