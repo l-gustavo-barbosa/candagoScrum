@@ -1,24 +1,7 @@
-    .body{
-        margin: 0%;
-    }
-.menu{
-    background-color: #202020;
-    padding: 10px;
-    border-bottom: 12px solid #15e5b3;
-}
-.titulo{
-color: #30FFCF;
-font-size: 35px;
-text-align: center;
-margin-right: 250px
-}
-.candago{
-    color: white;
-    float: left;
-    margin-top: 15px;
-}
+@import url("style.css");
+
 .corpo{
-background-color: white;
+    margin: 32px 0;
 }
 #botao{
     text-align: center;
@@ -33,18 +16,15 @@ background-color: white;
     background-color: #15e5b3;
     border-radius: 0px 0px 24px 24px;
     box-shadow: 0px 8px 16px #0000001f;
-    border: #30FFCF
+    border: #30FFCF;
 }
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
-*{
-    font-family: 'Inter', sans-serif;
-}
+
+
 #inicioJornada{
     border-radius: 48px;
     max-width: 400px;
     border: 2px solid #202020;
     margin: 0 auto;
-    margin-top: 100px;
 }
 
 #inicioJornada h1{
@@ -156,68 +136,4 @@ background-color: white;
     display: block;
     margin: 0 auto 16px;
     cursor: pointer;
-}
-.rodape{
-    display: flex;
-    background-color: #30FFCF;
-    padding: 30px;
-    margin-top: 100px;
-    border-top: 2px solid #202020;
-    align-items: center;
-}
-.textos{
-    width: 500px;
-}
-#titulosobre{
-    display: block;
-    width: 100%;
-    margin-bottom: 15px;
-    font-size: 30px;
-    list-style: none;
-    text-align: center;
-    font-weight: 700;
-}
-.sobre2{
-    width: 175px;
-    margin-left: 350px;
-    margin-bottom: 95px;
-}
-.sobre{
-    text-align: center;
-    list-style: none;
-    padding: 1px;
-    font-size: 20px;
-}
-.redes2{
-    float: right;
-    width: 150px;
-    display: flex;
-    margin-left: 250px;
-}
-.redes2 ul{
-    width: fit-content;
-}
-#titulorede{
-    text-align: center;
-    display: block;
-    width: 100%;
-    margin-bottom: 15px;
-    font-size: 30px;
-    font-weight: 700;
-}
-.redes{
-    list-style: none;
-    text-align: left;    
-    size-adjust: 20px;
-    font-size: 20px;
-    margin-top: 7px;
-    display: flex;
-    align-items: center;
-}
-.redes p{
-    display: inline-block;
-    margin: 0;
-}
-.img{
-    margin-right: 5px;
 }

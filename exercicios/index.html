@@ -4,15 +4,21 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=], initial-scale=1.0" />
     <title>Exercicios</title>
-    <link rel="stylesheet" href="stylesheet.css" />
+    <link rel="stylesheet" href="../resources/css/exercicios.css" />
   </head>
   <body>
-    <div class="containerhead">
-      <button>
-        <img src="img/setavoltar.svg" width="80" height="80" />
-      </button>
-      <h1 class="titulo">Exercícios Capítulo 1</h1>
-    </div>
+    <div class="menu">
+      <img class="candago" src="../resources/img/Candagologo1.png" alt="">
+      <h1 class="titulo">Tudo sobre SCRUM</h1>
+  </div>
+  <div id="topDown">
+      <button class="botaoTopDown"><img src="../resources/img/dropdownArrow.svg" alt=""></button>
+  </div>
+
+  <div class="back">
+    <button id="prevPage">➔</button>
+    <h2 id="backtext">Exercícios do Capítulo X</h2>
+</div>
     <div class="questionario">
       <form>
         <fieldset>
@@ -29,15 +35,15 @@
               <p>Per aumento de cachacis, eu reclamis. </p>
             </li>
             <li>
-              <input type="radio" value="A" name="Pergunta1" />
+              <input type="radio" value="B" name="Pergunta1" />
               <p>Per aumento de cachacis, eu reclamis. </p>
             </li>
             <li>
-              <input type="radio" value="A" name="Pergunta1" />
+              <input type="radio" value="C" name="Pergunta1" />
               <p>Per aumento de cachacis, eu reclamis. </p>
             </li>
             <li>
-              <input type="radio" value="A" name="Pergunta1" />
+              <input type="radio" value="D" name="Pergunta1" />
               <p>Per aumento de cachacis, eu reclamis. </p>
             </li>
           </ul>
@@ -52,24 +58,49 @@
           </p>
           <ul>
             <li>
-              <input type="radio" value="A" name="Pergunta1" />
+              <input type="radio" value="A" name="Pergunta2" />
               <p>Per aumento de cachacis, eu reclamis. </p>
             </li>
             <li>
-              <input type="radio" value="A" name="Pergunta1" />
+              <input type="radio" value="B" name="Pergunta2" />
               <p>Per aumento de cachacis, eu reclamis. </p>
             </li>
             <li>
-              <input type="radio" value="A" name="Pergunta1" />
+              <input type="radio" value="C" name="Pergunta2" />
               <p>Per aumento de cachacis, eu reclamis. </p>
             </li>
             <li>
-              <input type="radio" value="A" name="Pergunta1" />
+              <input type="radio" value="D" name="Pergunta2" />
               <p>Per aumento de cachacis, eu reclamis. </p>
             </li>
           </ul>
         </fieldset>
+        <input type="submit" id="submit" value="Enviar Respostas">
       </form>
     </div>
+    <footer>
+      <img class="candago2" src="../resources/img/Candagologo2.png" alt="">
+      <div class="textos">
+          <ul class="sobre2">
+              <li id="titulosobre" class="sobre">Sobre</li>
+              <li class="sobre">Equipe técnica</li>
+              <li class="sobre">Projeto SCRUM</li>
+          </ul>
+      </div>
+      <div class="redes2">
+          <ul>
+              <li id="titulorede" class="redes">Redes</li>
+              <li class="redes"><img class="img" src="../resources/img/Instagram.png" alt="">
+                  <p>Instagram</p>
+              </li>
+              <li class="redes"><img class="img" src="../resources/img/Facebook.png" alt="">
+                  <p>Facebook</p>
+              </li>
+              <li class="redes"><img class="img" src="../resources/img/GitHub.png" alt="">
+                  <p>GitHub</p>
+              </li>
+          </ul>
+      </div>
+  </footer>
   </body>
 </html>

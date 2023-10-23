@@ -1,0 +1,146 @@
+@import url("reset.css");
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+/* Header */
+
+.menu{
+    background-color: #202020;
+    display: flex;
+    align-items: center;
+    padding: 24px 32px;
+    position: relative;
+}
+
+.candago{
+    position: absolute;
+    left: 24px;
+}
+
+.titulo{
+color: #30FFCF;
+font-size: 35px;
+text-align: center;
+width: 100%;
+}
+
+/* barra de navegação */
+
+#topDown{
+    box-shadow: inset 0 8px #30FFCF;
+    display: flex;
+    justify-content: center;
+}
+
+#topDown .botaoTopDown{
+    background-color: #30FFCF;
+    width: 48px;
+    height: 32px;
+    border-radius: 0 0 24px 24px;
+}
+
+/* footer */
+
+footer{
+    display: flex;
+    background-color: #15E5B3;
+    padding: 30px;
+    border-top: 2px solid #202020;
+    align-items: center;
+    margin-top: 32px;
+}
+
+.candago2{
+    max-width: 25%;
+}
+
+.textos{
+    width: 500px;
+}
+#titulosobre{
+    display: block;
+    width: 100%;
+    margin-bottom: 15px;
+    font-size: 30px;
+    list-style: none;
+    text-align: center;
+    font-weight: 700;
+}
+.sobre2{
+    width: 175px;
+    margin-left: 350px;
+    margin-bottom: 95px;
+}
+.sobre{
+    text-align: center;
+    list-style: none;
+    padding: 1px;
+    font-size: 20px;
+}
+.redes2{
+    float: right;
+    width: 150px;
+    display: flex;
+    margin-left: 250px;
+}
+.redes2 ul{
+    width: fit-content;
+}
+#titulorede{
+    text-align: center;
+    display: block;
+    width: 100%;
+    margin-bottom: 15px;
+    font-size: 30px;
+    font-weight: 700;
+}
+.redes{
+    list-style: none;
+    text-align: left;    
+    size-adjust: 20px;
+    font-size: 20px;
+    margin-top: 7px;
+    display: flex;
+    align-items: center;
+}
+.redes p{
+    display: inline-block;
+    margin: 0;
+}
+.img{
+    margin-right: 5px;
+}
+
+#backtext{
+    font-size: 32px;
+    display: inline-block;
+}
+
+.back{
+    display: flex;
+    align-items: center;
+    margin: 32px;
+}
+
+#prevPage {
+    width: 32px;
+    height: 32px;
+    border:none;
+    background-color: rgba(0,255,194, 0);
+    cursor: pointer;
+    rotate: 180deg;
+    color: #15E5B3;
+    border-radius: 50%;
+    
+}
+
+#prevPage:hover {
+    box-shadow: 0px -8px 24px rgba(21, 34, 31, 0.6);
+    width: 40px;
+    height: 40px;
+    margin-right: 16px;
+    transition: 150ms;
+}

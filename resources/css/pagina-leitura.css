@@ -1,0 +1,27 @@
+@import url("style.css");
+
+
+
+#nextPage{
+    color: black;
+border-radius: 70px;
+background-image: linear-gradient(90deg,rgba(21,229,179),rgba(21,229,179));
+border: none;
+margin-top: 16px;
+}
+#nextPage:hover {
+    background-image: linear-gradient(90deg,rgb(38, 168, 138),rgba(0,255,194));
+    transition: 150ms;
+}
+
+h1{
+    font-size: 48px;
+    text-align: center;
+    margin-bottom: 16px;
+    font-weight: 700;
+}
+
+p{
+    font-size: 18px;
+}
+
