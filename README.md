@@ -67,7 +67,7 @@
 **ENTREGA**
 <br>
 [SPRINT 1 - Clique Aqui!](https://www.youtube.com/watch?v=3PtlmFv_WHg)
-[SPRINT 2 - Clique Aqui!]([(https://www.canva.com/design/DAFyTXLPaFE/0wu_MXgH0AW1I99Ur0MOBg/view?utm_content=DAFyTXLPaFE&utm_campaign=designshare&utm_medium=link&utm_source=editor)])
+<br>[SPRINT 2 - Clique Aqui!]([(https://www.canva.com/design/DAFyTXLPaFE/0wu_MXgH0AW1I99Ur0MOBg/view?utm_content=DAFyTXLPaFE&utm_campaign=designshare&utm_medium=link&utm_source=editor)])
 
 
 
