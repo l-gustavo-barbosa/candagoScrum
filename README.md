@@ -60,9 +60,9 @@
 <br>
 ![burndownchartsprint1](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/burndown.PNG)
 <br>
-[SPRINT-2 - Clique aqui!](https://github.com/l-gustavo-barbosa/candagoScrum/blob/master/imagens/image.png)
+[SPRINT-2 - Clique aqui!](https://github.com/l-gustavo-barbosa/candagoScrum/blob/master/imagens/burndown%20chart%20sprint%202.png)
 <br>
-![burndownchartsprint2](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/image.png)
+![burndownchartsprint2](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/burndown%20chart%20sprint%202.png)
 <br>
 [SPRINT-3 - Em Breve!]()
 <br>
@@ -73,11 +73,11 @@
 <br>
 [SPRINT 1 - Clique Aqui!](https://www.youtube.com/watch?v=3PtlmFv_WHg)
 <br>
-(https://prnt.sc/2NENooCh6uhu)
+![sprint1entrega](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/sprint%201%20entrega.png)
 <br>
 [SPRINT 2 - Clique Aqui!](https://www.canva.com/design/DAFyTXLPaFE/0wu_MXgH0AW1I99Ur0MOBg/view?utm_content=DAFyTXLPaFE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 <br>
-(https://prnt.sc/tAHAz7EGigyv)
+![sprint2entrega](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/sprint%202%20entrega.png)
 
 
 
