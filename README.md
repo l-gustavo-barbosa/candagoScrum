@@ -23,18 +23,18 @@
 <br>
 <br>
 <br>
-(https://prnt.sc/6HEQIlFgJ_Ch)
+![repositoriodasprint](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/reposit%C3%B3rio%20sprint.png)
 <br>
 ![planning](https://user-images.githubusercontent.com/104475381/235958977-c923e4b1-8a20-4863-9344-0c86ce84caef.png)
  **KANBAN**
  <br>
 [SPRINT-1 - Clique Aqui!](https://github.com/users/l-gustavo-barbosa/projects/2/views/4)
 <br>
-![Kanban sprint1](https://prnt.sc/p9HM25PWoEKc) 
+![Kanban sprint1](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/kanban%20sprint%201.png) 
 <br>
 [SPRINT-2 - Clique Aqui!](https://github.com/users/l-gustavo-barbosa/projects/2/views/9)
 <br>
-(https://prnt.sc/OmE-UvflhVpS)
+![kanbansprint2](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/kanban%20sprint%202.png)
 <br>
 [SPRINT-3 - Em Breve!]()
 <br>
@@ -44,11 +44,11 @@
 <br>
 [SPRINT-1 - Clique Aqui!](https://github.com/users/l-gustavo-barbosa/projects/2/views/3?sliceBy%5Bvalue%5D=1)
 <br>
-(https://prnt.sc/-OJfPu0jX8ik)
+![backlogsprint1](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/backlog%20sprint%201.png)
 <br>
 [SPRINT-2 - Clique Aqui!](https://github.com/users/l-gustavo-barbosa/projects/2/views/8?sliceBy%5Bvalue%5D=2)
 <br>
-(https://prnt.sc/DVLjV_6KVDPq)
+![backlogsprint2](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/backlog%20sprint%202%20.png)
 <br>
 [SPRINT-3 - Em Breve!]()
 <br>
@@ -62,7 +62,7 @@
 <br>
 [SPRINT-2 - Clique aqui!](https://github.com/l-gustavo-barbosa/candagoScrum/blob/master/imagens/image.png)
 <br>
-(https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/image.png)
+![burndownchartsprint2](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/image.png)
 <br>
 [SPRINT-3 - Em Breve!]()
 <br>
