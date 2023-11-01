@@ -30,7 +30,7 @@
  <br>
 [SPRINT-1 - Clique Aqui!](https://github.com/users/l-gustavo-barbosa/projects/2/views/4)
 <br>
-<img href="https://prnt.sc/p9HM25PWoEKc"> 
+<img src="https://prnt.sc/p9HM25PWoEKc"> 
 <br>
 [SPRINT-2 - Clique Aqui!](https://github.com/users/l-gustavo-barbosa/projects/2/views/9)
 <br>
