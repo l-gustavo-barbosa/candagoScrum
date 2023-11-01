@@ -58,7 +58,7 @@
 <br>
 [SPRINT-1 - Clique Aqui!](https://github.com/l-gustavo-barbosa/candagoScrum/blob/master/imagens/burndown.PNG)
 <br>
-(https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/burndown.PNG)
+![burndownchartsprint1](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/burndown.PNG)
 <br>
 [SPRINT-2 - Clique aqui!](https://github.com/l-gustavo-barbosa/candagoScrum/blob/master/imagens/image.png)
 <br>
