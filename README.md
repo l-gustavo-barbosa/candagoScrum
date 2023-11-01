@@ -8,7 +8,7 @@
 
 
 <h1>Clique 
-        <a href=""target="_blank">Aqui
+        <a href="https://l-gustavo-barbosa.github.io/candagoScrum/"target="_blank">Aqui
         </a> para visitar nossa Website.
     </h1>
 
@@ -19,15 +19,21 @@
 ![folder](https://user-images.githubusercontent.com/104475381/235959141-faaeb1c6-25a9-4545-a1f4-41832e8f0fc5.png)
 **REPOSITÓRIO API**
 <br>
+<br>
 [Clique Aqui!](https://github.com/l-gustavo-barbosa/candagoScrum)
 <br>
+(https://prnt.sc/6HEQIlFgJ_Ch)
 <br>
 ![planning](https://user-images.githubusercontent.com/104475381/235958977-c923e4b1-8a20-4863-9344-0c86ce84caef.png)
  **KANBAN**
  <br>
 [SPRINT-1 - Clique Aqui!](https://github.com/users/l-gustavo-barbosa/projects/2/views/4)
 <br>
-[SPRINT-2 - Em Breve!]()
+(https://prnt.sc/p9HM25PWoEKc)
+<br>
+[SPRINT-2 - Clique Aqui!](https://github.com/users/l-gustavo-barbosa/projects/2/views/9)
+<br>
+(https://prnt.sc/OmE-UvflhVpS)
 <br>
 [SPRINT-3 - Em Breve!]()
 <br>
@@ -35,40 +41,42 @@
 ![backlog](https://user-images.githubusercontent.com/104475381/235958941-ed63f4ab-3d47-4ecd-83f7-e9d889e1b38c.png)
 **BACKLOG LIST**
 <br>
-[SPRINT-1 - Clique Aqui!](https://github.com/users/l-gustavo-barbosa/projects/2)
+[SPRINT-1 - Clique Aqui!](https://github.com/users/l-gustavo-barbosa/projects/2/views/3?sliceBy%5Bvalue%5D=1)
 <br>
-[SPRINT-2 - Em Breve!]()
+(https://prnt.sc/-OJfPu0jX8ik)
+<br>
+[SPRINT-2 - Clique Aqui!](https://github.com/users/l-gustavo-barbosa/projects/2/views/8?sliceBy%5Bvalue%5D=2)
+<br>
+(https://prnt.sc/DVLjV_6KVDPq)
 <br>
 [SPRINT-3 - Em Breve!]()
 <br>
 <br>
 ![growth](https://user-images.githubusercontent.com/104475381/235959262-d2c25637-4372-43b9-bcd2-94c357c23c8c.png)
   **BURNDOWN CHART**
- <br>
-[SPRINT-1 - Clique Aqui!](https://github.com/l-gustavo-barbosa/candagoScrum/blob/Main/imagens/burndown.PNG)
 <br>
-[SPRINT-2 - Em Breve!]()
+[SPRINT-1 - Clique Aqui!](https://github.com/l-gustavo-barbosa/candagoScrum/blob/master/imagens/burndown.PNG)
 <br>
-[SPRINT-3 - Em Breve!]()
+(https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/burndown.PNG)
 <br>
+[SPRINT-2 - Clique aqui!](https://github.com/l-gustavo-barbosa/candagoScrum/blob/master/imagens/image.png)
 <br>
-![retrospective](https://user-images.githubusercontent.com/127904356/236079834-57bccb67-8829-4f1e-ac8c-d126694d3138.png)
-**RETROSPECTIVA DA SPRINT**
- <br>
-[SPRINT-1 - Em Breve!]()
-<br>
-[SPRINT-2 - Em Breve!]()
-<br>
+(https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/image.png)
 <br>
 [SPRINT-3 - Em Breve!]()
+<br>
 <br>
 
-![ytlogo](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/Main/imagens/image-removebg-preview.png)
+![ytlogo](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/image-removebg-preview.png)
 **ENTREGA**
 <br>
 [SPRINT 1 - Clique Aqui!](https://www.youtube.com/watch?v=3PtlmFv_WHg)
 <br>
+(https://prnt.sc/2NENooCh6uhu)
+<br>
 [SPRINT 2 - Clique Aqui!](https://www.canva.com/design/DAFyTXLPaFE/0wu_MXgH0AW1I99Ur0MOBg/view?utm_content=DAFyTXLPaFE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+<br>
+(https://prnt.sc/tAHAz7EGigyv)
 
 
 
