@@ -46,11 +46,14 @@ width: 100%;
 
 footer{
     display: flex;
+    width: calc(100% - 60px);
     background-color: #15E5B3;
     padding: 30px;
     border-top: 2px solid #202020;
     align-items: center;
     margin-top: 32px;
+    position: absolute;
+    bottom: 0;
 }
 
 .candago2{
