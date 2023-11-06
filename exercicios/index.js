@@ -19,3 +19,7 @@ function avalia(respostas){
     } else {window.alert("Nota insuficiente. Por favor, refaça o teste.")}
 
 }
+
+document.getElementById("prevPage").addEventListener("click", function(){
+    history.back();
+})
