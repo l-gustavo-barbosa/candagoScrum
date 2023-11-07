@@ -153,3 +153,41 @@ footer{
     margin-right: 16px;
     transition: 150ms;
 }
+
+h1{
+    font-size: 48px;
+    text-align: center;
+    margin-bottom: 16px;
+    font-weight: 700;
+}
+
+@media (max-width:500px){
+    .menu{
+        flex-direction: column;
+    }
+    .candago{
+        position: relative;
+    }
+
+    footer{
+        flex-direction: column;
+        gap: 16px;
+    }
+
+    footer .textos{
+        max-width: 80%;
+    }
+
+    .textos .sobre2{
+        margin: 0 auto;
+    }
+
+    .redes2{
+        margin: 0 auto;
+    }
+
+    .candago2{
+        max-width: 80%;
+    }
+    
+}

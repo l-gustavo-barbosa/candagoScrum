@@ -92,3 +92,9 @@ input[type="radio"]:checked{
 	transition: 250ms;
 	cursor: pointer;
 }
+
+@media (max-width:600px){
+	.questionario {
+		width: 100vw;
+	}
+}
