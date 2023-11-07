@@ -4,8 +4,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
-
 }
 
 h2{
@@ -22,11 +20,6 @@ a{
     font-weight: bolder;
 }
 
-
-
-.container{
-    min-height: 100vh;
-}
 
 .header-principal{
     width: 100vw;
@@ -71,24 +64,27 @@ a{
     justify-content: center;
     align-items: center;
     text-align: center;
-
-    height: 79vh;
+    flex-grow: 2;
 }
 
 
 .button-content{
-    background-color:#15ECB8 ;
+    color: black;
+border-radius: 70px;
+background-image: linear-gradient(90deg,rgba(21,229,179),rgba(21,229,179));
+border: none;
+margin-top: 16px;
+padding: 8px 16px;
+font-size: 16px;
+}
 
-    padding: 8px 16px;
-    margin-top: 1rem;
-    border: none;
-    border-radius: 20px;
-    cursor: pointer;
+.button-content:hover{
+    background-image: linear-gradient(90deg,rgb(38, 168, 138),rgba(0,255,194));
+    transition: 150ms;
 }
 
 .content-h2 img{
     filter: drop-shadow(#585858 8px 16px 24px);
     margin: 24px 0;
 }
-
 

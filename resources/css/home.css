@@ -1,7 +1,8 @@
-@import url("style.css");
+ @import url("style.css");
 
 .corpo{
     margin: 32px 0;
+    flex-grow: 2;
 }
 #botao{
     text-align: center;
