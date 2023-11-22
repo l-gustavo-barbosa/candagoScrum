@@ -39,6 +39,7 @@ width: 100%;
     box-shadow: inset 0 8px #30FFCF;
     display: flex;
     justify-content: center;
+    flex-direction: column;
 }
 
 #topDown .botaoTopDown{
@@ -46,8 +47,30 @@ width: 100%;
     width: 48px;
     height: 32px;
     border-radius: 0 0 24px 24px;
+    border: none;
+    align-self: center;
 }
 
+#nav{
+    display: flex;
+    flex-direction: row;
+    background-color: #30FFCF;
+    margin: 0;
+    padding: 16px 0;
+    justify-content: space-evenly;
+}
+
+#nav li, #nav a{
+    text-decoration: none;
+    list-style: none;
+    color: #202020;
+    font-weight: 700;
+}
+
+#nav a:hover{
+    font-size: 18px;
+    transition: 50ms;
+}
 /* footer */
 
 footer{
@@ -160,6 +183,12 @@ h1{
     margin-bottom: 16px;
     font-weight: 700;
 }
+
+#topDown .inativo {
+    display: none;
+}
+
+
 
 @media (max-width:500px){
     .menu{
