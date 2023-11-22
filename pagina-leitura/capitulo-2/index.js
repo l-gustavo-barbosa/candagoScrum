@@ -1,5 +1,5 @@
 document.getElementById("nextPage").addEventListener("click", function(){
-    location.href = "../exercicios/";
+    location.href = "../exercicio/";
 })
 
 document.getElementById("prevPage").addEventListener("click", function(){
