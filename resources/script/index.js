@@ -15,7 +15,7 @@ function trocarHome(){
 }
 
 function iniciarJornada(){
-    window.location.href = "pagina-leitura/";
+    window.location.href = "pagina-leitura/capitulo-1";
 }
 
 var i = 0;
