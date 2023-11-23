@@ -60,6 +60,7 @@ fieldset li p{
 	display: inline-block;
 	font-weight: 400;
 	margin: 0;
+
 }
 
 
@@ -98,6 +99,20 @@ input[type="radio"]:checked{
 	.questionario {
 		width: 100vw;
 		margin: 0;
+	
+	}
+
+	.questionario ul{
+		list-style: none;
+		padding-left: 0;
+	}
+
+	.questionario #form  fieldset ul li{
+		height: fit-content;
+	} 
+	.questionario #form fieldset ul li input{
+		min-width: 24px;
+		min-height: 24px;
 	}
 
 }
