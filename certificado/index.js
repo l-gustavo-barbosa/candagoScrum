@@ -9,3 +9,11 @@ document.getElementById("topDown").addEventListener("click", function(){
     document.getElementById("nav").classList.remove('inativo');
    }else {document.getElementById("nav").classList.add('inativo');}
 })
+
+
+function emitir(){
+    console.log("nome");
+    var nome = document.getElementById("nomeSobrenome").value;
+    localStorage.setItem("textoNode",nome);
+    location.href = "conclusao/";
+}

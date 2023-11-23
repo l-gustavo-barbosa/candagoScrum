@@ -70,12 +70,15 @@ a{
 
 .button-content{
     color: black;
-border-radius: 70px;
+border-radius:  0 70px 70px 0;
 background-image: linear-gradient(90deg,rgba(21,229,179),rgba(21,229,179));
 border: none;
 margin-top: 16px;
 padding: 8px 16px;
 font-size: 16px;
+text-decoration: none;
+color: black;
+font-weight: bolder;
 }
 
 .button-content:hover{
@@ -88,3 +91,10 @@ font-size: 16px;
     margin: 24px 0;
 }
 
+#nomeSobrenome {
+    padding: 8px 16px;
+    font-size: 16px;
+    border-radius: 70px 0 0 70px;
+    border: none;
+    background-color: #c4c4c4;
+}
