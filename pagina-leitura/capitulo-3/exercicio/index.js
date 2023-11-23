@@ -31,7 +31,7 @@ function avalia(respostas){
     //verifica se a nota é maior que a média
     if(nota >= (gabarito.length / 2)){
         //redireciona o usuario para a proxima pagina ou para o certificado
-        location.href = "../../certificado/"
+        location.href = "../../../certificado/"
     } else {window.alert("Nota insuficiente. Por favor, refaça o teste.")}
 
 }
