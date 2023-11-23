@@ -40,3 +40,7 @@ document.getElementById("prevPage").addEventListener("click", function(){
     //volta uma etapa no histórico do navegador
     history.back();
 })
+
+function home(){
+    location.href = "https://l-gustavo-barbosa.github.io/candagoScrum/"
+}

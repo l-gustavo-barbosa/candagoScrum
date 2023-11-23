@@ -17,3 +17,7 @@ function emitir(){
     localStorage.setItem("textoNode",nome);
     location.href = "conclusao/";
 }
+
+function home(){
+    location.href = "https://l-gustavo-barbosa.github.io/candagoScrum/"
+}
