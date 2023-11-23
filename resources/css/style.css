@@ -11,6 +11,10 @@ body{
     
 }
 
+.candago:hover{
+    cursor: pointer;
+}
+
 /* Header */
 
 .menu{
