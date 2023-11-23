@@ -53,7 +53,7 @@ fieldset input {
 fieldset li {
 	display: flex;
 	align-items: center;
-	margin: 0 0 30px 0;
+	
 }
 
 fieldset li p{

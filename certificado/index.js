@@ -15,6 +15,8 @@ function emitir(){
     console.log("nome");
     var nome = document.getElementById("nomeSobrenome").value;
     localStorage.setItem("textoNode",nome);
+    console.log(nome);
+    console.log(localStorage.getItem("textoNode"));
     location.href = "conclusao/";
 }
 
