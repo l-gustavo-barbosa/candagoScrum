@@ -31,7 +31,7 @@ function avalia(respostas){
     //verifica se a nota é maior que a média
     if(nota >= (gabarito.length / 2)){
         //redireciona o usuario para a proxima pagina ou para o certificado
-        location.href = "../../../pagina-leitura/capitulo-3/"
+        location.href = "../../../certificado/"
     } else {window.alert("Nota insuficiente. Por favor, refaça o teste.")}
 
 }
@@ -40,3 +40,7 @@ document.getElementById("prevPage").addEventListener("click", function(){
     //volta uma etapa no histórico do navegador
     history.back();
 })
+
+function home(){
+    location.href = "https://l-gustavo-barbosa.github.io/candagoScrum/"
+}

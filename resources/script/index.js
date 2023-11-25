@@ -17,3 +17,11 @@ function trocarHome(){
 function iniciarJornada(){
     window.location.href = "pagina-leitura/capitulo-1";
 }
+
+var i = 0;
+document.getElementById("topDown").addEventListener("click", function(){
+    i++;
+   if(i % 2){
+    document.getElementById("nav").classList.remove('inativo');
+   }else {document.getElementById("nav").classList.add('inativo');}
+})

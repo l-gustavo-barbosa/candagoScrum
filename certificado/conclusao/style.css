@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+body {
+    background-image: linear-gradient(rgba(32,32,32,0.9), rgba(32,32,32,0.9) ), url('../../resources/img/bgCertificado.jpg');
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+#certificado {
+    display: flex;
+width: 713px;
+height: 451px;
+background-color: aliceblue;
+flex-flow: column;
+justify-content: center;
+align-items: center;
+border-radius: 32px;
+border: 16px solid #15E5B3;
+padding: 0 16px;
+box-shadow: 16px 16px 32px #202020;
+}
+
+h1{
+    color: #202020;
+text-align: center;
+font-family: 'Inter', sans-serif;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+img{
+    width: 152px;
+    height: auto;
+    display: inline-block;
+    align-self: flex-end;
+}
+
+p, h6{
+    color: #202020;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 80%;
+}
+
+h6{
+    font-size: 12px;
+}
+ul, h6{
+    max-height: 152px;
+    display: inline-block;
+    margin: 8px;
+}
+
+div div{
+    display: flex;
+    align-items: center;
+}
