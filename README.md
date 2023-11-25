@@ -8,7 +8,7 @@
 
 
 <h1>Clique 
-        <a href="https://l-gustavo-barbosa.github.io/candagoScrum/"target="_blank">Aqui
+        <a href=" "target="_blank">Aqui
         </a> para visitar nossa Website.
     </h1>
 
@@ -36,21 +36,25 @@
 <br>
 ![kanbansprint2](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/kanban%20sprint%202.png)
 <br>
-[SPRINT-3 - Em Breve!]()
+[SPRINT-3 - Clique Aqui!](https://github.com/users/l-gustavo-barbosa/projects/2/views/9?sliceBy%5Bvalue%5D=3)
+<br>
+![kanbansprint3](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/sprint3/kanban.png)
 <br>
 <br>
 ![backlog](https://user-images.githubusercontent.com/104475381/235958941-ed63f4ab-3d47-4ecd-83f7-e9d889e1b38c.png)
 **BACKLOG LIST**
 <br>
-[SPRINT-1 - Clique Aqui!](https://github.com/users/l-gustavo-barbosa/projects/2/views/3?sliceBy%5Bvalue%5D=1)
+[SPRINT-1 - Clique Aqui!](https://github.com/users/l-gustavo-barbosa/projects/2)
 <br>
 ![backlogsprint1](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/backlog%20sprint%201.png)
 <br>
-[SPRINT-2 - Clique Aqui!](https://github.com/users/l-gustavo-barbosa/projects/2/views/8?sliceBy%5Bvalue%5D=2)
+[SPRINT-2 - Clique Aqui!](https://github.com/users/l-gustavo-barbosa/projects/2)
 <br>
 ![backlogsprint2](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/backlog%20sprint%202%20.png)
 <br>
-[SPRINT-3 - Em Breve!]()
+[SPRINT-3 - Clique Aqui!](https://github.com/users/l-gustavo-barbosa/projects/2)
+<br>
+![backlogsprint3](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/sprint3/backlog.png)
 <br>
 <br>
 ![growth](https://user-images.githubusercontent.com/104475381/235959262-d2c25637-4372-43b9-bcd2-94c357c23c8c.png)
@@ -60,11 +64,13 @@
 <br>
 ![burndownchartsprint1](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/burndown.PNG)
 <br>
-[SPRINT-2 - Clique aqui!](https://github.com/l-gustavo-barbosa/candagoScrum/blob/master/imagens/burndown%20chart%20sprint%202.png)
+[SPRINT-2 - Clique Aqui!](https://github.com/l-gustavo-barbosa/candagoScrum/blob/master/imagens/burndown%20chart%20sprint%202.png)
 <br>
 ![burndownchartsprint2](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/burndown%20chart%20sprint%202.png)
 <br>
-[SPRINT-3 - Em Breve!]()
+[SPRINT-3 - Clique Aqui!](https://github.com/l-gustavo-barbosa/candagoScrum/blob/master/imagens/burndown3.png)
+<br>
+![burndownchartsprint3](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/burndown3.png)
 <br>
 <br>
 
@@ -78,6 +84,10 @@
 [SPRINT 2 - Clique Aqui!](https://www.canva.com/design/DAFyTXLPaFE/0wu_MXgH0AW1I99Ur0MOBg/view?utm_content=DAFyTXLPaFE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 <br>
 ![sprint2entrega](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/sprint%202%20entrega.png)
+<br>
+[SPRINT 3 - Clique Aqui!](https://l-gustavo-barbosa.github.io/candagoScrum/)
+<br>
+![sprint3entrega](https://raw.githubusercontent.com/l-gustavo-barbosa/candagoScrum/master/imagens/sprint3/entrega.png)
 
 
 
