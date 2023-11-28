@@ -8,7 +8,7 @@
 
 
 <h1>Clique 
-        <a href=" "target="_blank">Aqui
+        <a href="https://l-gustavo-barbosa.github.io/candagoScrum/"target="_blank">Aqui
         </a> para visitar nossa Website.
     </h1>
 
